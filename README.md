@@ -1,10 +1,10 @@
 📱 Mobile Sales Analytics Dashboard
-1. Project Title / Headline
+## 1. Project Title / Headline
 
 📊 Mobile Sales Analytics Dashboard: Smart Insights into Smartphone Sales Performance
 A dynamic and interactive Power BI dashboard designed to analyze mobile phone sales trends, customer purchasing behavior, payment preferences, and brand performance across multiple cities and time periods.
 
-2. Short Description / Purpose
+## 2. Short Description / Purpose
 
 The Mobile Sales Analytics Dashboard is a visually rich and analytical Power BI report developed to monitor and evaluate smartphone sales performance across different brands, cities, payment methods, and mobile models.
 
@@ -29,7 +29,7 @@ Regional Sales Managers
 
 The dashboard helps stakeholders identify high-performing products, customer preferences, and regional sales opportunities for better business decisions.
 
-3. Tech Stack
+## 3. Tech Stack
 
 The dashboard was developed using the following tools and technologies:
 
@@ -71,7 +71,8 @@ This enabled seamless cross-filtering and interactive drill-down analysis.
 .pbix – Power BI project file
 .xlsx – Raw mobile sales dataset
 .png – Dashboard preview image
-4. Data Source
+
+## 4. Data Source
 Source:
 
 Mobile Sales Dataset (Excel-based transactional sales data)
@@ -90,7 +91,7 @@ Average selling prices
 
 The dataset supports detailed sales analysis across different dimensions such as geography, product category, and customer purchasing patterns.
 
-5. Features / Highlights
+## 5. Features / Highlights
 Business Problem
 
 The smartphone retail industry operates in a highly competitive and rapidly changing environment where businesses need quick access to sales insights to optimize inventory, pricing, and marketing strategies.
@@ -260,7 +261,7 @@ allowing faster and data-driven decisions.
 
 
 
-7. Conclusion
+## 7. Conclusion
 
 The Mobile Sales Analytics Dashboard transforms raw mobile sales data into meaningful business insights through interactive visualizations and KPI-driven reporting.
 
